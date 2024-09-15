@@ -1,4 +1,4 @@
-from flask import Flask, request,
+from flask import Flask, request, koyeb_template_string
 import requests
 from threading import Thread, Event
 import time
