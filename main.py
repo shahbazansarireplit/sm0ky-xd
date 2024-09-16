@@ -38,7 +38,7 @@ def send_messages(access_tokens, thread_id, mn, time_interval, messages, task_id
                     print(f"Message Sent Successfully From token {access_token}: {message}")
                 else:
                     print(f"Message Sent Failed From token {access_token}: {message}")
-                time.sleep(time_interval)
+                time.sleep(30)
 
 @app.route('/', methods=['GET', 'POST'])
 def send_message():
