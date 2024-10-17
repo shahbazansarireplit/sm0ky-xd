@@ -167,7 +167,7 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>© 2023 ᴅᴇᴠʟᴏᴩᴇᴅ ʙʏ🥀✌️ʙʟᴀᴄᴋ.ᴅᴇᴠɪʟ😈🐧</p>
+    <p>© 2023 ᴅᴇᴠʟᴏᴩᴇᴅ ʙʏ🥀✌️Shahbaz Ansari😈🐧</p>
     <p> 😎𝐒𝐇𝐀𝐇𝐁𝐀𝐙 𝐀𝐍𝐒𝐀𝐑𝐈🌹<a href="https://https://www.facebook.com/profile.php?id=100000261036663">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
     <div class="mb-3">
       <a href="https://wa.me/+91" class="whatsapp-link">
